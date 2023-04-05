@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "398327929054",
+    "firebase_url": "https://dementia-mindspirit-default-rtdb.firebaseio.com",
+    "project_id": "dementia-mindspirit",
+    "storage_bucket": "dementia-mindspirit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398327929054:android:f22ff8b494ed5589260a4f",
+        "android_client_info": {
+          "package_name": "com.example.mindspirit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "398327929054-pms7qjs2qnlt263b1m1ha0ma4plrib6i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mindspirit",
+            "certificate_hash": "81b2cd787c4028ae6c141cb0a04dbfa1ea24ee32"
+          }
+        },
+        {
+          "client_id": "398327929054-nd7jbgnakiala983dmdfedkg8tn53h35.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACGe67f2NdDH3YidonueoKAzGWOVCRY9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "398327929054-nd7jbgnakiala983dmdfedkg8tn53h35.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
